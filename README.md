@@ -1,6 +1,7 @@
 
 ### [Step 3: Create relationships between animals](id:relationships)
 [Back to Home](https://github.com/bgando/JS102)
+
 Let's think about the best data structure to represent a relationship between two animals in our collection. Imagine that our app has a 'friendslist' on an animal's profile which lists out all of the animal's friends. What do you think is the best way to represent this? Would you use an array or an object or some combination of both? Let's walk through the process together
 ##### 3a: Create a Friendslist
 - Choose a data structure for the list of friends.
