@@ -30,7 +30,7 @@ Imagine now that we have more than one kind of relationship in our app, we have 
 - Add the `matches` array to the `relationships` object. It should look like this:
   - `relationships = { friends: ['duck', 'camel'], matches: []}`
 - Using the `relationships` object, add at at least one `username` to `matches`
-  - Hint: the matches array is now nested inside the relationships object!
+  - Hint: the matches array is now nested inside the `relationships` object!
 - Inspect your object. Is the `matches` array now populated with some lucky animal?
 - Loop through your `animals` collection, adding the `relationships` object to each animal object. Name the property `relationships`.
   - Note: it is ok that these are all the same relationship object.
