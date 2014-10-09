@@ -12,10 +12,10 @@ Let's think about the best data structure to represent a relationship between tw
 
 #####Create a Friendslist
 - Choose a data structure (array or object) for the list of friends' usernames.
-- Justify your decision.
+- Justify your decision. Why did you choose to use one over the other?
 - Create a variable called `friends` and assign it to the empty data structure.
 - Using your `animals` array, add two usernames to `friends`.
-  - ensure that you are just putting the `username` value, not the entire object
+  - ensure that you are just putting the `username` value, not the entire object.
   - be careful not to use a destructive method like `pop()` that will remove the whole value from the animals array.
 - Inspect your `friends` data structure. What does it look like?
 
