@@ -33,4 +33,4 @@ Imagine now that we have more than one kind of relationship in our app, we have 
   - Hint: the matches array is now nested inside the `relationships` object!
 - Inspect your object. Is the `matches` array now populated with some lucky animal?
 - Loop through your `animals` collection, adding the `relationships` object to each animal object. Name the property `relationships`.
-  - Note: it is ok that these are all the same relationship object.
+  - Note: it is ok that these are all the same `relationship` object.
