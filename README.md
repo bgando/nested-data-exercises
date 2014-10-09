@@ -25,7 +25,7 @@ Imagine now that we have more than one kind of relationship in our app, we have 
 
 - Create a variable called `relationships` assign it to an empty object.
 - Add your `friends` data structure to the `relationships` object.
-- Inspect your object. What is it's length?
+- Inspect your object. What is it's "length"?
 - Create a variable called `matches` and assign it to an empty array.
 - Add the `matches` array to the `relationships` object. It should look like this:
   - `relationships = { friends: ['duck', 'camel'], matches: []}`
