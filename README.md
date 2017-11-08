@@ -10,7 +10,7 @@ In this section we will be explore how to represent more complex data in a neste
 
 Let's represent a relationship between two animals in our collection. Imagine that our app has a 'friendslist' on an animal's profile which lists out all of the animal's friends. Let's walk through the process together.
 
-#####Create a Friendslist
+##### Create a Friendslist
 - Create an array for the list of friends' usernames.
 - Create a variable called `friends` and assign it to the empty data structure.
 - Using your `animals` array, add two usernames to `friends`.
